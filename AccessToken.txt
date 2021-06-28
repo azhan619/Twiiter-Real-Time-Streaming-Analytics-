@@ -1,0 +1,15 @@
+access_token='203929297-Tl4ed85WNK88ASc4eAgqmXUBbZtwDEB0DPN3L3YD'
+
+access_secre='K5JcjFlD2TOh2csFdZvRKQjF8jBZpW5pioW1JUnQG0FBN'
+
+consumer_key='oen6gdBlEGyySyPDhc4mLY7DI'
+
+consumer_secret= 'EzedL8cENk0nuiG4T6EvwbPH4Pof5lNJTCA0ckVCci2ZPtjsQV'
+
+track = ['#FreePalestine', '#Israel', '#PalestinianLivesMatter', '#GazaUnderAttack', '#gaza',
+         '#photography', '#iphone', '#beach', '#tech', '#apple', '#iPod',
+         '#MatchDikhao', '#PSL2021', '#HBLPSL6', '#QGvMS', '#PSL',
+         '#galaxy', '#galaxys20', '#galaxys21', '#galaxynote20', '#samsung',
+         '#photography', '#iphone', '#beach', '#tech', '#apple', '#iPod'
+         '#ADA', '#MATIC', '#ethereum', '#cardano', '#binance', '#blockchain'
+         '#plaid', '#elon', '#bitcoin', '#elonmusk', '#tesla']

@@ -1,0 +1,14 @@
+Binance-neutral                          266   
+Ethereum-positive                        6   
+Ethereum-negative                        1   
+Ethereum-neutral                         51   
+Bitcoin-positive                         94   
+Dogecoin-negative                        7   
+Bitcoin-neutral                          270   
+Dogecoin-positive                        34   
+Binance-positive                         14   
+Dogecoin-neutral                         165   
+Binance-negative                         2   
+Cardano-positive                         5   
+Bitcoin-negative                         33   
+Cardano-neutral                          12   

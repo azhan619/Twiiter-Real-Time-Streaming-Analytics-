@@ -1,0 +1,169 @@
+2021-06-14 00:59:58 WARN  NativeCodeLoader:60 - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2021-06-14 00:59:58 INFO  SparkContext:54 - Running Spark version 2.3.1
+2021-06-14 00:59:58 INFO  SparkContext:54 - Submitted application: TwitterStreamApp
+2021-06-14 00:59:58 INFO  SecurityManager:54 - Changing view acls to: root
+2021-06-14 00:59:58 INFO  SecurityManager:54 - Changing modify acls to: root
+2021-06-14 00:59:58 INFO  SecurityManager:54 - Changing view acls groups to: 
+2021-06-14 00:59:58 INFO  SecurityManager:54 - Changing modify acls groups to: 
+2021-06-14 00:59:58 INFO  SecurityManager:54 - SecurityManager: authentication disabled; ui acls disabled; users  with view permissions: Set(root); groups with view permissions: Set(); users  with modify permissions: Set(root); groups with modify permissions: Set()
+2021-06-14 00:59:59 INFO  Utils:54 - Successfully started service 'sparkDriver' on port 36849.
+2021-06-14 00:59:59 INFO  SparkEnv:54 - Registering MapOutputTracker
+2021-06-14 00:59:59 INFO  SparkEnv:54 - Registering BlockManagerMaster
+2021-06-14 00:59:59 INFO  BlockManagerMasterEndpoint:54 - Using org.apache.spark.storage.DefaultTopologyMapper for getting topology information
+2021-06-14 00:59:59 INFO  BlockManagerMasterEndpoint:54 - BlockManagerMasterEndpoint up
+2021-06-14 00:59:59 INFO  DiskBlockManager:54 - Created local directory at /tmp/blockmgr-b9a1ed08-617f-4acf-9ff0-ca76c77c3e81
+2021-06-14 00:59:59 INFO  MemoryStore:54 - MemoryStore started with capacity 366.3 MB
+2021-06-14 00:59:59 INFO  SparkEnv:54 - Registering OutputCommitCoordinator
+2021-06-14 00:59:59 INFO  log:192 - Logging initialized @2591ms
+2021-06-14 00:59:59 INFO  Server:346 - jetty-9.3.z-SNAPSHOT
+2021-06-14 00:59:59 INFO  Server:414 - Started @2695ms
+2021-06-14 00:59:59 INFO  AbstractConnector:278 - Started ServerConnector@4b777b06{HTTP/1.1,[http/1.1]}{0.0.0.0:4040}
+2021-06-14 00:59:59 INFO  Utils:54 - Successfully started service 'SparkUI' on port 4040.
+2021-06-14 00:59:59 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@64f6cad9{/jobs,null,AVAILABLE,@Spark}
+2021-06-14 00:59:59 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@3cd51fd9{/jobs/json,null,AVAILABLE,@Spark}
+2021-06-14 00:59:59 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@784a6d5c{/jobs/job,null,AVAILABLE,@Spark}
+2021-06-14 00:59:59 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@23f12765{/jobs/job/json,null,AVAILABLE,@Spark}
+2021-06-14 00:59:59 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@37cedf15{/stages,null,AVAILABLE,@Spark}
+2021-06-14 00:59:59 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@1cc5743d{/stages/json,null,AVAILABLE,@Spark}
+2021-06-14 00:59:59 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@44f9bab{/stages/stage,null,AVAILABLE,@Spark}
+2021-06-14 00:59:59 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@580befa5{/stages/stage/json,null,AVAILABLE,@Spark}
+2021-06-14 00:59:59 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@20e1a5cc{/stages/pool,null,AVAILABLE,@Spark}
+2021-06-14 00:59:59 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@74e87286{/stages/pool/json,null,AVAILABLE,@Spark}
+2021-06-14 00:59:59 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@5bc80186{/storage,null,AVAILABLE,@Spark}
+2021-06-14 00:59:59 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@5c39bb9d{/storage/json,null,AVAILABLE,@Spark}
+2021-06-14 00:59:59 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@715baa13{/storage/rdd,null,AVAILABLE,@Spark}
+2021-06-14 00:59:59 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@46109afc{/storage/rdd/json,null,AVAILABLE,@Spark}
+2021-06-14 00:59:59 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@5dcf6789{/environment,null,AVAILABLE,@Spark}
+2021-06-14 00:59:59 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@4c3bdafe{/environment/json,null,AVAILABLE,@Spark}
+2021-06-14 00:59:59 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@609cea58{/executors,null,AVAILABLE,@Spark}
+2021-06-14 00:59:59 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@22994bcd{/executors/json,null,AVAILABLE,@Spark}
+2021-06-14 00:59:59 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@44c9338{/executors/threadDump,null,AVAILABLE,@Spark}
+2021-06-14 00:59:59 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@16325565{/executors/threadDump/json,null,AVAILABLE,@Spark}
+2021-06-14 00:59:59 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@11fba3d1{/static,null,AVAILABLE,@Spark}
+2021-06-14 00:59:59 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@6423e516{/,null,AVAILABLE,@Spark}
+2021-06-14 00:59:59 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@f16c5d3{/api,null,AVAILABLE,@Spark}
+2021-06-14 00:59:59 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@aba0170{/jobs/job/kill,null,AVAILABLE,@Spark}
+2021-06-14 00:59:59 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@19d3b47b{/stages/stage/kill,null,AVAILABLE,@Spark}
+2021-06-14 00:59:59 INFO  SparkUI:54 - Bound SparkUI to 0.0.0.0, and started at http://35b155f441ca:4040
+2021-06-14 00:59:59 INFO  SparkContext:54 - Added file file:/app/spark_app.py at file:/app/spark_app.py with timestamp 1623632399928
+2021-06-14 00:59:59 INFO  Utils:54 - Copying /app/spark_app.py to /tmp/spark-602dddba-3168-4348-800c-2a1ebecc3329/userFiles-799e909b-eb98-4e21-9449-9e92ecc210f2/spark_app.py
+2021-06-14 01:00:00 INFO  Executor:54 - Starting executor ID driver on host localhost
+2021-06-14 01:00:00 INFO  Utils:54 - Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 40555.
+2021-06-14 01:00:00 INFO  NettyBlockTransferService:54 - Server created on 35b155f441ca:40555
+2021-06-14 01:00:00 INFO  BlockManager:54 - Using org.apache.spark.storage.RandomBlockReplicationPolicy for block replication policy
+2021-06-14 01:00:00 INFO  BlockManagerMaster:54 - Registering BlockManager BlockManagerId(driver, 35b155f441ca, 40555, None)
+2021-06-14 01:00:00 INFO  BlockManagerMasterEndpoint:54 - Registering block manager 35b155f441ca:40555 with 366.3 MB RAM, BlockManagerId(driver, 35b155f441ca, 40555, None)
+2021-06-14 01:00:00 INFO  BlockManagerMaster:54 - Registered BlockManager BlockManagerId(driver, 35b155f441ca, 40555, None)
+2021-06-14 01:00:00 INFO  BlockManager:54 - Initialized BlockManager: BlockManagerId(driver, 35b155f441ca, 40555, None)
+2021-06-14 01:00:00 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@42fd1c69{/metrics/json,null,AVAILABLE,@Spark}
+----------- 2021-06-14 01:00:02 -----------
+----------- 2021-06-14 01:00:04 -----------
+----------- 2021-06-14 01:00:06 -----------
+----------- 2021-06-14 01:00:08 -----------
+----------- 2021-06-14 01:00:10 -----------
+----------- 2021-06-14 01:00:12 -----------
+----------- 2021-06-14 01:00:14 -----------
+----------- 2021-06-14 01:00:16 -----------
+----------- 2021-06-14 01:00:18 -----------
+----------- 2021-06-14 01:00:20 -----------
+----------- 2021-06-14 01:00:22 -----------
+----------- 2021-06-14 01:00:24 -----------
+----------- 2021-06-14 01:00:26 -----------
+----------- 2021-06-14 01:00:28 -----------
+----------- 2021-06-14 01:00:30 -----------
+----------- 2021-06-14 01:00:32 -----------
+----------- 2021-06-14 01:00:34 -----------
+----------- 2021-06-14 01:00:36 -----------
+----------- 2021-06-14 01:00:38 -----------
+----------- 2021-06-14 01:00:40 -----------
+----------- 2021-06-14 01:00:42 -----------
+----------- 2021-06-14 01:00:44 -----------
+----------- 2021-06-14 01:00:46 -----------
+----------- 2021-06-14 01:00:48 -----------
+----------- 2021-06-14 01:00:50 -----------
+----------- 2021-06-14 01:00:52 -----------
+----------- 2021-06-14 01:00:54 -----------
+----------- 2021-06-14 01:00:56 -----------
+----------- 2021-06-14 01:00:58 -----------
+----------- 2021-06-14 01:01:00 -----------
+Traceback (most recent call last):
+  File "/app/spark_app.py", line 95, in <module>
+    ssc.awaitTermination()
+  File "/usr/spark-2.3.1/python/lib/pyspark.zip/pyspark/streaming/context.py", line 206, in awaitTermination
+  File "/usr/spark-2.3.1/python/lib/py4j-0.10.7-src.zip/py4j/java_gateway.py", line 1255, in __call__
+  File "/usr/spark-2.3.1/python/lib/py4j-0.10.7-src.zip/py4j/java_gateway.py", line 985, in send_command
+  File "/usr/spark-2.3.1/python/lib/py4j-0.10.7-src.zip/py4j/java_gateway.py", line 1152, in send_command
+  File "/usr/lib/python3.5/socket.py", line 576, in readinto
+    return self._sock.recv_into(b)
+  File "/usr/spark-2.3.1/python/lib/pyspark.zip/pyspark/context.py", line 246, in signal_handler
+KeyboardInterrupt
+2021-06-14 01:01:01 ERROR ReceiverTracker:70 - Deregistered receiver for stream 0: Stopped by driver
+2021-06-14 01:01:01 ERROR JobScheduler:91 - Error running job streaming job 1623632460000 ms.0
+py4j.Py4JException: Error while sending a command.
+	at py4j.CallbackClient.sendCommand(CallbackClient.java:397)
+	at py4j.CallbackClient.sendCommand(CallbackClient.java:356)
+	at py4j.reflection.PythonProxyHandler.invoke(PythonProxyHandler.java:106)
+	at com.sun.proxy.$Proxy23.call(Unknown Source)
+	at org.apache.spark.streaming.api.python.TransformFunction.callPythonTransformFunction(PythonDStream.scala:92)
+	at org.apache.spark.streaming.api.python.TransformFunction.apply(PythonDStream.scala:78)
+	at org.apache.spark.streaming.api.python.PythonDStream$$anonfun$callForeachRDD$1.apply(PythonDStream.scala:179)
+	at org.apache.spark.streaming.api.python.PythonDStream$$anonfun$callForeachRDD$1.apply(PythonDStream.scala:179)
+	at org.apache.spark.streaming.dstream.ForEachDStream$$anonfun$1$$anonfun$apply$mcV$sp$1.apply$mcV$sp(ForEachDStream.scala:51)
+	at org.apache.spark.streaming.dstream.ForEachDStream$$anonfun$1$$anonfun$apply$mcV$sp$1.apply(ForEachDStream.scala:51)
+	at org.apache.spark.streaming.dstream.ForEachDStream$$anonfun$1$$anonfun$apply$mcV$sp$1.apply(ForEachDStream.scala:51)
+	at org.apache.spark.streaming.dstream.DStream.createRDDWithLocalProperties(DStream.scala:416)
+	at org.apache.spark.streaming.dstream.ForEachDStream$$anonfun$1.apply$mcV$sp(ForEachDStream.scala:50)
+	at org.apache.spark.streaming.dstream.ForEachDStream$$anonfun$1.apply(ForEachDStream.scala:50)
+	at org.apache.spark.streaming.dstream.ForEachDStream$$anonfun$1.apply(ForEachDStream.scala:50)
+	at scala.util.Try$.apply(Try.scala:192)
+	at org.apache.spark.streaming.scheduler.Job.run(Job.scala:39)
+	at org.apache.spark.streaming.scheduler.JobScheduler$JobHandler$$anonfun$run$1.apply$mcV$sp(JobScheduler.scala:257)
+	at org.apache.spark.streaming.scheduler.JobScheduler$JobHandler$$anonfun$run$1.apply(JobScheduler.scala:257)
+	at org.apache.spark.streaming.scheduler.JobScheduler$JobHandler$$anonfun$run$1.apply(JobScheduler.scala:257)
+	at scala.util.DynamicVariable.withValue(DynamicVariable.scala:58)
+	at org.apache.spark.streaming.scheduler.JobScheduler$JobHandler.run(JobScheduler.scala:256)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: py4j.Py4JNetworkException: Error while sending a command: null response: c
+p3
+call
+L1623632460000
+lo3228
+e
+
+	at py4j.CallbackConnection.sendCommand(CallbackConnection.java:158)
+	at py4j.CallbackClient.sendCommand(CallbackClient.java:384)
+	... 24 more
+2021-06-14 01:01:01 ERROR TaskContextImpl:91 - Error in TaskCompletionListener
+java.lang.IllegalStateException: Block broadcast_0 not found
+	at org.apache.spark.storage.BlockInfoManager$$anonfun$2.apply(BlockInfoManager.scala:293)
+	at org.apache.spark.storage.BlockInfoManager$$anonfun$2.apply(BlockInfoManager.scala:293)
+	at scala.Option.getOrElse(Option.scala:121)
+	at org.apache.spark.storage.BlockInfoManager.unlock(BlockInfoManager.scala:292)
+	at org.apache.spark.storage.BlockManager.releaseLock(BlockManager.scala:769)
+	at org.apache.spark.broadcast.TorrentBroadcast$$anonfun$org$apache$spark$broadcast$TorrentBroadcast$$releaseLock$1.apply(TorrentBroadcast.scala:265)
+	at org.apache.spark.broadcast.TorrentBroadcast$$anonfun$org$apache$spark$broadcast$TorrentBroadcast$$releaseLock$1.apply(TorrentBroadcast.scala:265)
+	at org.apache.spark.TaskContext$$anon$1.onTaskCompletion(TaskContext.scala:128)
+	at org.apache.spark.TaskContextImpl$$anonfun$markTaskCompleted$1.apply(TaskContextImpl.scala:118)
+	at org.apache.spark.TaskContextImpl$$anonfun$markTaskCompleted$1.apply(TaskContextImpl.scala:118)
+	at org.apache.spark.TaskContextImpl$$anonfun$invokeListeners$1.apply(TaskContextImpl.scala:131)
+	at org.apache.spark.TaskContextImpl$$anonfun$invokeListeners$1.apply(TaskContextImpl.scala:129)
+	at scala.collection.mutable.ResizableArray$class.foreach(ResizableArray.scala:59)
+	at scala.collection.mutable.ArrayBuffer.foreach(ArrayBuffer.scala:48)
+	at org.apache.spark.TaskContextImpl.invokeListeners(TaskContextImpl.scala:129)
+	at org.apache.spark.TaskContextImpl.markTaskCompleted(TaskContextImpl.scala:117)
+	at org.apache.spark.scheduler.Task.run(Task.scala:125)
+	at org.apache.spark.executor.Executor$TaskRunner.run(Executor.scala:345)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2021-06-14 01:01:01 ERROR Utils:91 - Uncaught exception in thread Executor task launch worker for task 0
+java.lang.NullPointerException
+	at org.apache.spark.scheduler.Task$$anonfun$run$1.apply$mcV$sp(Task.scala:130)
+	at org.apache.spark.util.Utils$.tryLogNonFatalError(Utils.scala:1360)
+	at org.apache.spark.scheduler.Task.run(Task.scala:128)
+	at org.apache.spark.executor.Executor$TaskRunner.run(Executor.scala:345)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)

@@ -1,0 +1,157 @@
+************* 2021-06-21 02:24:39 *************
+Binance-neutral                          2 
+************* 2021-06-21 02:24:42 *************
+Binance-neutral                          4 
+Bitcoin-neutral                          2 
+Binance-positive                         1 
+************* 2021-06-21 02:24:45 *************
+Binance-neutral                          5 
+Ethereum-positive                        2 
+Ethereum-neutral                         2 
+Bitcoin-neutral                          7 
+Dogecoin-positive                        1 
+Binance-positive                         1 
+Dogecoin-neutral                         1 
+************* 2021-06-21 02:24:48 *************
+Binance-neutral                          17 
+Ethereum-positive                        3 
+Ethereum-neutral                         3 
+Bitcoin-positive                         1 
+Bitcoin-neutral                          11 
+Dogecoin-positive                        4 
+Binance-positive                         2 
+Dogecoin-neutral                         2 
+Cardano-neutral                          1 
+************* 2021-06-21 02:24:51 *************
+Binance-neutral                          17 
+Ethereum-positive                        3 
+Ethereum-neutral                         3 
+Bitcoin-positive                         1 
+Bitcoin-neutral                          11 
+Dogecoin-positive                        4 
+Binance-positive                         2 
+Dogecoin-neutral                         2 
+Cardano-neutral                          1 
+************* 2021-06-21 02:24:54 *************
+Binance-neutral                          19 
+Ethereum-positive                        3 
+Ethereum-neutral                         3 
+Bitcoin-positive                         1 
+Bitcoin-neutral                          11 
+Dogecoin-positive                        4 
+Binance-positive                         2 
+Dogecoin-neutral                         2 
+Cardano-neutral                          1 
+************* 2021-06-21 02:24:57 *************
+Binance-neutral                          24 
+Ethereum-positive                        4 
+Ethereum-neutral                         3 
+Bitcoin-positive                         1 
+Bitcoin-neutral                          20 
+Dogecoin-positive                        5 
+Binance-positive                         4 
+Dogecoin-neutral                         4 
+Cardano-neutral                          1 
+************* 2021-06-21 02:25:00 *************
+Binance-neutral                          26 
+Ethereum-positive                        4 
+Ethereum-neutral                         3 
+Bitcoin-positive                         1 
+Bitcoin-neutral                          22 
+Dogecoin-positive                        5 
+Binance-positive                         4 
+Dogecoin-neutral                         4 
+Cardano-neutral                          1 
+************* 2021-06-21 02:25:03 *************
+Binance-neutral                          27 
+Ethereum-positive                        4 
+Ethereum-neutral                         3 
+Bitcoin-positive                         1 
+Bitcoin-neutral                          22 
+Dogecoin-positive                        5 
+Binance-positive                         4 
+Dogecoin-neutral                         4 
+Cardano-neutral                          1 
+************* 2021-06-21 02:25:06 *************
+Binance-neutral                          30 
+Ethereum-positive                        4 
+Ethereum-neutral                         3 
+Bitcoin-positive                         2 
+Bitcoin-neutral                          24 
+Dogecoin-positive                        7 
+Binance-positive                         4 
+Dogecoin-neutral                         4 
+Cardano-neutral                          1 
+************* 2021-06-21 02:25:09 *************
+Binance-neutral                          32 
+Ethereum-positive                        4 
+Ethereum-neutral                         4 
+Bitcoin-positive                         3 
+Bitcoin-neutral                          25 
+Dogecoin-positive                        8 
+Binance-positive                         4 
+Dogecoin-neutral                         5 
+Cardano-neutral                          1 
+Bitcoin-negative                         1 
+************* 2021-06-21 02:25:12 *************
+Binance-neutral                          40 
+Ethereum-positive                        4 
+Ethereum-neutral                         4 
+Bitcoin-positive                         3 
+Dogecoin-negative                        1 
+Bitcoin-neutral                          26 
+Dogecoin-positive                        8 
+Binance-positive                         4 
+Dogecoin-neutral                         6 
+Cardano-neutral                          1 
+Bitcoin-negative                         1 
+************* 2021-06-21 02:25:15 *************
+Binance-neutral                          45 
+Ethereum-positive                        4 
+Ethereum-neutral                         4 
+Bitcoin-positive                         4 
+Dogecoin-negative                        1 
+Bitcoin-neutral                          28 
+Dogecoin-positive                        8 
+Binance-positive                         4 
+Dogecoin-neutral                         10 
+Cardano-neutral                          1 
+Bitcoin-negative                         2 
+************* 2021-06-21 02:25:18 *************
+Binance-neutral                          47 
+Ethereum-positive                        4 
+Ethereum-neutral                         5 
+Bitcoin-positive                         4 
+Dogecoin-negative                        1 
+Bitcoin-neutral                          34 
+Dogecoin-positive                        8 
+Binance-positive                         5 
+Dogecoin-neutral                         10 
+Cardano-neutral                          1 
+Bitcoin-negative                         2 
+************* 2021-06-21 02:25:21 *************
+Binance-neutral                          50 
+Ethereum-positive                        4 
+Ethereum-neutral                         6 
+Bitcoin-positive                         4 
+Dogecoin-negative                        1 
+Bitcoin-neutral                          36 
+Dogecoin-positive                        9 
+Binance-positive                         5 
+Dogecoin-neutral                         10 
+Cardano-neutral                          1 
+Bitcoin-negative                         2 
+************* 2021-06-21 02:25:24 *************
+Binance-neutral                          53 
+Ethereum-positive                        4 
+Ethereum-neutral                         7 
+Bitcoin-positive                         5 
+Dogecoin-negative                        2 
+Bitcoin-neutral                          43 
+Dogecoin-positive                        9 
+Binance-positive                         5 
+Dogecoin-neutral                         11 
+Cardano-neutral                          1 
+Bitcoin-negative                         2 
+************* 2021-06-21 02:25:27 *************
+************* 2021-06-21 02:25:30 *************

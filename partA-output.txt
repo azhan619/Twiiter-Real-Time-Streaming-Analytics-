@@ -1,0 +1,99 @@
+********** 2021-06-23 18:24:21 *********
+********** 2021-06-23 18:24:24 *********
+#Bitcoin                                 2
+#Crypto                                  1
+#Ethereum                                1
+********** 2021-06-23 18:24:27 *********
+#Bitcoin                                 5
+#Crypto                                  3
+#Ethereum                                1
+#Blockchain                              1
+********** 2021-06-23 18:24:30 *********
+#Bitcoin                                 8
+#Crypto                                  6
+#Ethereum                                2
+#Blockchain                              1
+********** 2021-06-23 18:24:33 *********
+#Bitcoin                                 10
+#Crypto                                  6
+#Ethereum                                2
+#Blockchain                              1
+********** 2021-06-23 18:24:36 *********
+#Bitcoin                                 14
+#Crypto                                  7
+#Ethereum                                2
+#Blockchain                              1
+********** 2021-06-23 18:24:39 *********
+#Bitcoin                                 20
+#Crypto                                  8
+#Ethereum                                2
+#Blockchain                              1
+********** 2021-06-23 18:24:42 *********
+#Bitcoin                                 23
+#Crypto                                  8
+#Ethereum                                2
+#Blockchain                              1
+********** 2021-06-23 18:24:45 *********
+#Bitcoin                                 26
+#Crypto                                  9
+#Ethereum                                3
+#Blockchain                              2
+********** 2021-06-23 18:24:48 *********
+#Bitcoin                                 28
+#Crypto                                  10
+#Ethereum                                5
+#Blockchain                              2
+********** 2021-06-23 18:24:51 *********
+#Bitcoin                                 34
+#Crypto                                  12
+#Ethereum                                5
+#Blockchain                              3
+#Cardano                                 1
+********** 2021-06-23 18:24:54 *********
+#Bitcoin                                 35
+#Crypto                                  13
+#Ethereum                                5
+#Blockchain                              3
+#Cardano                                 1
+********** 2021-06-23 18:24:57 *********
+#Bitcoin                                 36
+#Crypto                                  15
+#Ethereum                                5
+#Blockchain                              3
+#Cardano                                 1
+********** 2021-06-23 18:25:00 *********
+#Bitcoin                                 43
+#Crypto                                  15
+#Ethereum                                5
+#Blockchain                              3
+#Cardano                                 1
+********** 2021-06-23 18:25:03 *********
+#Bitcoin                                 46
+#Crypto                                  16
+#Ethereum                                5
+#Blockchain                              3
+#Cardano                                 1
+********** 2021-06-23 18:25:06 *********
+#Bitcoin                                 48
+#Crypto                                  16
+#Ethereum                                5
+#Blockchain                              3
+#Cardano                                 1
+********** 2021-06-23 18:25:09 *********
+#Bitcoin                                 51
+#Crypto                                  17
+#Ethereum                                5
+#Blockchain                              3
+#Cardano                                 1
+********** 2021-06-23 18:25:12 *********
+#Bitcoin                                 51
+#Crypto                                  17
+#Ethereum                                6
+#Blockchain                              4
+#Cardano                                 1
+********** 2021-06-23 18:25:15 *********
+#Bitcoin                                 54
+#Crypto                                  17
+#Ethereum                                6
+#Blockchain                              4
+#Cardano                                 1

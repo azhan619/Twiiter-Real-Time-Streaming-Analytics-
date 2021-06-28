@@ -1,0 +1,7 @@
+ {'Apple': ['#apple', '#ios', '#iphone12', '#macbook', '#appleevent','#applewatch','#iphone13',
+                    '#iPad','#iPod','#iphone12promax'],
+       'Samsung': ['#samsung', '#s21', '#galaxy', '#s21ultra', '#samsunggalaxy','#samsungexynos','#galaxybook'
+                 , '#samsungphotography','#galaxywatch' ,'#galaxys21'],
+       'Huawei': ['#huawei', '#iphone', '#beach', '#tech', '#apple', '#iPod'],
+       'Oppo': ['#IUvMS', '#Waseem', '#rangjeetkalalhai', '#galaxynote20', '#samsung'],
+       'Xiaomi': ['#bitcoin'] }

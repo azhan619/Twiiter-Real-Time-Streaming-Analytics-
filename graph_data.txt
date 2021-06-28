@@ -1,0 +1,3 @@
+Crypto-positive                          4
+Crypto-neutral                           20
+Crypto-negative                          2
